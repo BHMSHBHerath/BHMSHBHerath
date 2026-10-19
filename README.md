@@ -60,11 +60,6 @@ I enjoy turning engineering concepts into practical systems through hardware pro
 
 Developing a ground-vibration monitoring approach that uses **geophone sensing**, **signal processing**, and **machine learning** to identify potential elephant activity near railway infrastructure. The project explores Wavelet Packet Transform (WPT) features and a multi-geophone sensing architecture to support more reliable detection.
 
-### 🏆 Achievement
-
-**1st Place — KDU MSD Line-Following Robot Challenge**
-
-Built a line-following robot with image-assisted object detection and a pick-and-place arm, using serial communication between an **ESP32** and **Arduino Nano**.
 
 ### 🌐 Areas I'm Exploring
 
