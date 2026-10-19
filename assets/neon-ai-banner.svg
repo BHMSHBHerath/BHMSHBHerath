@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-labelledby="title desc">
+<title id="title">Sachila Herath — Electronics and Telecommunication Engineering</title>
+<desc id="desc">Dark navy, luminous electric blue telecommunications and AI network banner</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050915"/><stop offset=".5" stop-color="#08172f"/><stop offset="1" stop-color="#071122"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#167bff"/><stop offset=".5" stop-color="#4fd3ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+ <radialGradient id="aura"><stop offset="0" stop-color="#007bff" stop-opacity=".26"/><stop offset="1" stop-color="#007bff" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#248dff" stroke-width=".65" opacity=".13"/></pattern>
+ <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter>
+ <clipPath id="clip"><rect width="1400" height="360" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1400" height="360" fill="url(#bg)"/>
+ <rect width="1400" height="360" fill="url(#grid)"/>
+ <ellipse cx="1140" cy="177" rx="310" ry="230" fill="url(#aura)"/>
+ <path d="M0 0H9V360H0Z" fill="#1d8eff"/>
+ <path d="M0 352H1400" stroke="url(#line)" stroke-width="4"/>
+ <g opacity=".5" stroke="#1b7af0" stroke-width="1.25" fill="none">
+  <path d="M720 44h128l42 40h109"/><path d="M760 318h102l40-42h137"/><path d="M1207 25h110l32 34h51"/><path d="M1265 328h98l37-36"/>
+ </g>
+ <g fill="#36cfff" opacity=".9"><circle cx="999" cy="84" r="3.5"/><circle cx="1039" cy="276" r="3.5"/><circle cx="1349" cy="59" r="3.5"/></g>
+ <g font-family="Arial,DejaVu Sans,sans-serif">
+   <text x="76" y="64" font-size="15" letter-spacing="4" fill="#39c8ff">ENGINEER  ·  BUILD  ·  CONNECT</text>
+   <text x="73" y="149" font-size="58" font-weight="800" letter-spacing="1.2" fill="#e8f4ff">SACHILA HERATH</text>
+   <rect x="76" y="173" width="77" height="4" rx="2" fill="#2da9ff"/>
+   <text x="76" y="210" font-size="21" font-weight="600" fill="#5dd1ff" letter-spacing="1">ELECTRONICS &amp; TELECOMMUNICATION ENGINEERING</text>
+   <text x="76" y="260" font-size="20" fill="#c5d7ef">Networks  ·  IoT  ·  Embedded Systems  ·  Intelligent Sensing</text>
+   <text x="76" y="309" font-size="16" fill="#819dbb" letter-spacing=".55">From connected infrastructure to AI-assisted engineering systems</text>
+ </g>
+ <g transform="translate(1130 176)">
+  <circle r="112" fill="none" stroke="#258ffb" opacity=".16" stroke-width="1"/>
+  <circle r="92" fill="none" stroke="#30c2ff" opacity=".35" stroke-width="1.7" stroke-dasharray="8 9"/>
+  <circle r="63" fill="none" stroke="#52bcff" opacity=".48" stroke-width="1.7"/>
+  <circle r="23" fill="#0572df" opacity=".3" filter="url(#glow)"/>
+  <circle r="16" fill="#0b79df" stroke="#8ae4ff" stroke-width="2"/>
+  <g stroke="url(#line)" stroke-width="2.5" fill="none" opacity=".9">
+   <path d="M-78-50L-25-19L-10-74L49-35L83-54M-78-50L-70 30L-30 74L12 55L77 38L83-54M-25-19L-70 30L-30 74M49-35L77 38L12 55M12 55L-70 30M-10-74L49-35"/>
+  </g>
+  <g fill="#73e1ff" stroke="#051a35" stroke-width="3">
+   <circle cx="-78" cy="-50" r="6"/><circle cx="-25" cy="-19" r="6"/><circle cx="-10" cy="-74" r="6"/>
+   <circle cx="49" cy="-35" r="6"/><circle cx="83" cy="-54" r="6"/><circle cx="-70" cy="30" r="6"/>
+   <circle cx="-30" cy="74" r="6"/><circle cx="12" cy="55" r="6"/><circle cx="77" cy="38" r="6"/>
+  </g>
+  <g stroke="#39c8ff" stroke-width="2" opacity=".6" fill="none">
+   <path d="M-116 0Q0-117 116 0"/><path d="M-105 23Q0-82 105 23"/>
+  </g>
+ </g>
+ <g fill="#73baff" font-family="monospace" font-size="11" opacity=".5">
+  <text x="967" y="38">TX  ↑  5G / RF</text><text x="1212" y="329">AI / SIGNAL</text>
+ </g>
+</g>
+</svg>
