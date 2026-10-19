@@ -41,6 +41,54 @@ Developing a seismic monitoring concept that uses **multiple geophones** to dete
 
 > Research is ongoing; the description above is a project overview, not a claim of field-deployed or validated performance.
 
+### ⚡ Animated network signal
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/BHMSHBHerath/BHMSHBHerath/main/assets/animated-signal-flow.svg" width="96%" alt="Animated signal flow from sensors to edge computing, networks and AI analytics" />
+<br />
+<sub>Conceptual engineering data flow — moving blue dots represent packets, not a live telemetry connection.</sub>
+</div>
+
+### 🧭 Click to explore my engineering work
+
+<details>
+<summary><strong>📡 Telecommunications, IoT &amp; connected devices</strong></summary>
+
+**How embedded devices collect, process and exchange information**
+
+- [ESP32 IoT Home Automation](https://github.com/BHMSHBHerath/-IoT-Based-Home-Automation-System) — remote control and device-state monitoring.
+- [Smart Aquarium](https://github.com/BHMSHBHerath/Smart-Aquarium) — automated monitoring and control for an aquarium.
+- [Smart Water Purification Bottle](https://github.com/BHMSHBHerath/Smart-Water-Purification-Bottle) — local TDS measurements and OLED feedback.
+
+**Explore further:** ESP32 · Sensors · IoT · Control · Connected Devices
+
+</details>
+
+<details>
+<summary><strong>🧠 Intelligent sensing, signal processing &amp; ML research</strong></summary>
+
+**Ongoing final-year research:** Smart System for Mitigating Train–Elephant Conflict.
+
+The research examines ground vibrations from geophones, event detection, Wavelet Packet Transform (WPT) feature extraction and machine-learning approaches for distinguishing potential elephant activity.
+
+**Technical focus:** Geophones → Signal Acquisition → WPT Features → ML Classification
+
+[Explore the AI-guided research questions](AI_GUIDE.md). Validation and field deployment are not claimed.
+
+</details>
+
+<details>
+<summary><strong>🦾 Automation, robotics &amp; control systems</strong></summary>
+
+- [SCARA Robotic Arm](https://github.com/BHMSHBHerath/SCARA-Robotic-Arm-Programming-and-Control) — programming and robotic motion control.
+- [Three-Floor Elevator](https://github.com/BHMSHBHerath/-Elevator-Control-System) — embedded finite-state-machine logic and position sensors.
+- [Water Treatment &amp; Filling](https://github.com/BHMSHBHerath/Automated-Water-Treatment-and-Filling-System) — automated process sequencing.
+- [Pneumatic Pick &amp; Place](https://github.com/BHMSHBHerath/-Pick-and-Place-Pneumatic-System-Programming) — pneumatic handling and control sequences.
+
+**Explore further:** Finite State Machines · Actuators · Automation · Robotics
+
+</details>
+
 ### 🚀 Featured engineering projects
 
 | Project | Engineering focus |
