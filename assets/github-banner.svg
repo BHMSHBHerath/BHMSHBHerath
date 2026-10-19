@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-labelledby="title desc">
+<title id="title">Sachila Herath — Electronics and Telecommunication Engineering</title>
+<desc id="desc">Navy and cyan technical banner with radio waves, signal plot, circuit traces, and network nodes.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071222"/><stop offset=".55" stop-color="#0b1d33"/><stop offset="1" stop-color="#102d46"/></linearGradient>
+<linearGradient id="aqua" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4bdcf4"/><stop offset="1" stop-color="#88ffdc"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#3db6d4" stroke-width=".7" opacity=".09"/></pattern>
+<clipPath id="rounded"><rect width="1400" height="360" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#rounded)">
+<rect width="1400" height="360" fill="url(#bg)"/><rect width="1400" height="360" fill="url(#grid)"/>
+<circle cx="1185" cy="173" r="160" fill="#12c7e9" opacity=".06"/>
+<path d="M0 0H16V360H0Z" fill="url(#aqua)"/>
+<rect x="75" y="66" width="63" height="5" rx="2.5" fill="url(#aqua)"/>
+<text x="77" y="142" fill="#f1f8ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="55" font-weight="800" letter-spacing="1.7">SACHILA HERATH</text>
+<text x="78" y="188" fill="#70e3ef" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="2.2">ELECTRONICS &amp; TELECOMMUNICATION ENGINEERING</text>
+<rect x="78" y="211" width="660" height="1" fill="#6ba5ba" opacity=".30"/>
+<text x="78" y="252" fill="#c6d9e8" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" letter-spacing=".4">Computer Networks  •  Embedded Systems  •  IoT</text>
+<text x="78" y="298" fill="#8caabc" font-family="DejaVu Sans,Arial,sans-serif" font-size="17">Building practical, intelligent &amp; connected engineering systems</text>
+<g fill="none" stroke="#2cbdd6" stroke-width="1.8" opacity=".30"><path d="M795 43h80l23 23h56"/><path d="M836 333h106l25-25h73"/><path d="M1175 37h100l25 25h100"/><path d="M1260 321h60l20-20h60"/></g>
+<g fill="#65e7ef" opacity=".62"><circle cx="953" cy="66" r="3"/><circle cx="1040" cy="308" r="3"/><circle cx="1300" cy="62" r="3"/></g>
+<g fill="none" stroke="#58d8ed" stroke-linecap="round"><path d="M1100 127Q1185 42 1270 127" stroke-width="3" opacity=".75"/><path d="M1129 127Q1185 71 1241 127" stroke-width="3" opacity=".77"/><path d="M1157 127Q1185 99 1213 127" stroke-width="3.2" opacity=".95"/></g>
+<circle cx="1185" cy="139" r="8.8" fill="#84ffdf"/>
+<path d="M1185 150L1150 278H1220Z" fill="#153951" stroke="#56d6e9" stroke-width="3"/>
+<path d="M1171 202h28M1162 234h47M1155 263h60M1172 197l27 35M1198 197l-36 37M1162 234l53 29M1207 234l-52 29" stroke="#61cada" stroke-width="1.5" opacity=".8"/>
+<rect x="1128" y="278" width="116" height="5" rx="2.5" fill="#62d7e8"/>
+<path d="M925 211h42v-38h42v79h39v-58h24" stroke="url(#aqua)" fill="none" stroke-width="3.2" opacity=".82"/>
+<g fill="#85ffdf"><circle cx="925" cy="211" r="4"/><circle cx="1072" cy="194" r="4"/></g>
+<path d="M891 122h81m-67 20h67m-51 20h52" fill="none" stroke="#77b3c3" stroke-width="2" opacity=".28"/>
+<path d="M1305 184l42 32-19 47-56-13-10-39Z" fill="none" stroke="#5ddbe8" stroke-width="2" opacity=".75"/>
+<g fill="#8effe2"><circle cx="1305" cy="184" r="5"/><circle cx="1347" cy="216" r="5"/><circle cx="1328" cy="263" r="5"/><circle cx="1272" cy="250" r="5"/><circle cx="1262" cy="211" r="5"/></g>
+</g></svg>
