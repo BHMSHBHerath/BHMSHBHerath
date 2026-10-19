@@ -1,75 +1,104 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BHMSHBHerath/BHMSHBHerath/main/assets/github-banner.svg" width="100%" alt="Sachila Herath — Electronics and Telecommunication Engineering" />
 
+<img src="https://raw.githubusercontent.com/BHMSHBHerath/BHMSHBHerath/main/assets/neon-ai-banner.svg" width="100%" alt="Sachila Herath — telecommunications and AI engineering portfolio" />
 
-  <br />
+<br/>
 
-  **Electronics & Telecommunication Engineering Undergraduate | General Sir John Kotelawala Defence University, Sri Lanka**
+<img src="https://raw.githubusercontent.com/BHMSHBHerath/BHMSHBHerath/main/assets/engineering-focus.svg" width="95%" alt="Telecommunications, networks, embedded systems, IoT and AI signal processing" />
 
-  *Connecting electronics, communication technologies, and intelligent systems to solve real-world problems.*
+<br/><br/>
 
-  [![GitHub](https://img.shields.io/badge/GitHub-BHMSHBHerath-151b2c?style=flat-square&logo=github&logoColor=white)](https://github.com/BHMSHBHerath)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachila%20Herath-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachilaherath/)
-  ![Focus](https://img.shields.io/badge/Focus-Telecommunications%20%7C%20Networking%20%7C%20IoT-147d93?style=flat-square)
-  ![Location](https://img.shields.io/badge/Location-Sri%20Lanka-39485c?style=flat-square)
+**Electronics & Telecommunication Engineering Undergraduate**  
+General Sir John Kotelawala Defence University · Sri Lanka
+
+*Building practical systems at the intersection of communications, electronics and intelligent sensing.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachilaherath/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Code-101624?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BHMSHBHerath?tab=repositories)
+[![AI Guide](https://img.shields.io/badge/AI%20PROJECT%20GUIDE-Ask%20about%20my%20work-165DCA?style=for-the-badge&logo=openai&logoColor=white)](AI_GUIDE.md)
+
 </div>
 
 ---
 
-### 👋 About Me
+### 👋 About me
 
-I'm **Sachila Herath**, an Electronics and Telecommunication Engineering undergraduate with interests in **computer networking, communication systems, embedded electronics, IoT, signal processing, and intelligent automation**.
+I’m **Sachila Herath**, an Electronics and Telecommunication Engineering undergraduate interested in **telecommunications networks, embedded systems, IoT, automation, signal processing and machine learning**.
 
-I enjoy turning engineering concepts into practical systems through hardware prototyping, programming, experimentation, and problem-solving.
+I enjoy moving from circuit design and prototyping to embedded software and practical problem-solving. My current research explores how **geophone sensing and machine learning** may support elephant detection near railway infrastructure.
 
-- 📡 **Telecommunications:** Interested in network infrastructure, routing and switching, and connected systems.
-- 🛠️ **Hands-on engineering:** Building with microcontrollers, sensors, actuators, and embedded C/C++.
-- 🧠 **Research:** Exploring signal processing and machine learning for real-world monitoring systems.
-- 📚 **Currently learning:** CCNA and HCIA Datacom certification pathways (in progress).
-- 🎯 **Career interests:** Telecommunications engineering, networking, embedded systems, and IoT.
+- 📡 **Core focus:** Communication systems, networking, routing & switching, IoT.
+- 🛠️ **Engineering work:** Microcontrollers, sensors, control systems, C/C++ and Python.
+- 🧠 **AI interests:** Signal feature extraction, classification and sensor-driven intelligent systems.
+- 📚 **Currently studying:** Cisco CCNA and Huawei HCIA Datacom pathways.
+- 🎯 **Career direction:** Telecommunications, network engineering, embedded/IoT and intelligent systems.
 
-### ⚡ Technologies & Tools
+### 🔬 Current research
 
-<div align="center">
+**Smart System for Mitigating Train–Elephant Conflict** · *Final-year research in progress*
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-137A9E?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+Developing a seismic monitoring concept that uses **multiple geophones** to detect relevant ground vibrations near railway tracks. Exploring **adaptive thresholding, Wavelet Packet Transform (WPT)** for signal features and **machine-learning classification** to distinguish potential elephant activity from other vibration sources.
 
-</div>
+> Research is ongoing; the description above is a project overview, not a claim of field-deployed or validated performance.
 
-### 🚀 Selected Engineering Projects
+### 🚀 Featured engineering projects
 
-| Project | What it demonstrates |
+| Project | Engineering focus |
 |:--|:--|
-| [**Smart Aquarium**](https://github.com/BHMSHBHerath/Smart-Aquarium) | IoT-enabled monitoring and automation for feeding, lighting, filtration, and water parameters. |
-| [**Smart Water Purification Bottle**](https://github.com/BHMSHBHerath/Smart-Water-Purification-Bottle) | Compact purification prototype integrating filtration, TDS monitoring, and an OLED display. |
-| [**IoT-Based Home Automation**](https://github.com/BHMSHBHerath/-IoT-Based-Home-Automation-System) | ESP32-based remote appliance control and connected-device monitoring. |
-| [**Elevator Control System**](https://github.com/BHMSHBHerath/-Elevator-Control-System) | Microcontroller-driven three-floor elevator model using sensors and finite-state control logic. |
-| [**Pick-and-Place Pneumatic System**](https://github.com/BHMSHBHerath/-Pick-and-Place-Pneumatic-System-Programming) | Sequential automation of sensing, gripping, and placement using pneumatic actuation. |
-| [**SCARA Robotic Arm**](https://github.com/BHMSHBHerath/SCARA-Robotic-Arm-Programming-and-Control) | Embedded control and kinematic programming for robotic manipulation. |
-| [**Automated Water Treatment and Filling System**](https://github.com/BHMSHBHerath/Automated-Water-Treatment-and-Filling-System) | Sensor-based treatment and filling automation. |
+| 🐠 **[Smart Aquarium](https://github.com/BHMSHBHerath/Smart-Aquarium)** | IoT-enabled feeding, lighting, filtration alerts and water-parameter monitoring |
+| 💧 **[Smart Water Purification Bottle](https://github.com/BHMSHBHerath/Smart-Water-Purification-Bottle)** | ESP32-C3 prototype with filtration, TDS sensing and OLED feedback |
+| 🏠 **[IoT Home Automation](https://github.com/BHMSHBHerath/-IoT-Based-Home-Automation-System)** | ESP32-powered connected appliance monitoring and remote control |
+| 🛗 **[Elevator Control System](https://github.com/BHMSHBHerath/-Elevator-Control-System)** | Arduino three-floor model with sensor feedback and finite-state logic |
+| 🦾 **[SCARA Robotic Arm](https://github.com/BHMSHBHerath/SCARA-Robotic-Arm-Programming-and-Control)** | Robotics programming and motion control |
+| 🏭 **[Automated Water Treatment & Filling](https://github.com/BHMSHBHerath/Automated-Water-Treatment-and-Filling-System)** | Industrial sensing, sequence control and automation |
+| ⚙️ **[Pneumatic Pick & Place](https://github.com/BHMSHBHerath/-Pick-and-Place-Pneumatic-System-Programming)** | Pneumatic actuation and automated material handling |
 
-### 🔬 Current Research
+### 🧠 AI-assisted project explorer
 
-**Smart System for Mitigating Train–Elephant Conflict** — *Ongoing final-year project*
+Want to explore the engineering behind these projects or identify relevant skills for a telecom, IoT or automation role?
 
-Developing a ground-vibration monitoring approach that uses **geophone sensing**, **signal processing**, and **machine learning** to identify potential elephant activity near railway infrastructure. The project explores Wavelet Packet Transform (WPT) features and a multi-geophone sensing architecture to support more reliable detection.
+[![Explore with ChatGPT](https://img.shields.io/badge/Explore%20my%20projects%20with-ChatGPT-1668D7?style=for-the-badge&logo=openai&logoColor=white)](AI_GUIDE.md)
 
+Use the **[AI project guide](AI_GUIDE.md)** for curated prompts and an external ChatGPT link prefilled with context from this public portfolio. It can help explain concepts, compare technologies or prepare technical interview questions.
 
-### 🌐 Areas I'm Exploring
+<sub>AI assistance opens in ChatGPT, not inside GitHub. Replies may be inaccurate; verify technical claims against the linked repositories.</sub>
 
-`Computer Networks` • `Routing & Switching` • `IoT Protocols` • `Signal Processing` • `Embedded Systems` • `Machine Learning` • `Network Automation`
+### 🧰 Technologies and tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-166c9c?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1b263b?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+**Networking:** TCP/IP · Routing & Switching · IoT Networking  
+**Intelligent systems:** Signal Processing · WPT · Feature Extraction · Machine Learning *(research/learning)*
+
+### 📊 GitHub activity
+
+<div align="center">
+
+<a href="https://github.com/BHMSHBHerath?tab=repositories">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BHMSHBHerath&bg_color=0a1323&color=79c8ff&line=288eff&point=72eaff&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph; supplied by an external public statistics service" />
+</a>
+
+<sub>This graph is generated from public GitHub activity by a third-party service, not an AI score.</sub>
+
+</div>
 
 ---
 
 <div align="center">
-  <strong>Engineering ideas into connected, working systems.</strong>
-  <br />
-  <sub>Explore the repositories below for project code and implementation details.</sub>
+
+**Let's build more reliable, connected and intelligent systems.**
+
+[Portfolio repositories](https://github.com/BHMSHBHerath?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/sachilaherath/) · [AI project guide](AI_GUIDE.md)
+
 </div>
