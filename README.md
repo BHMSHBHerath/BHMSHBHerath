@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/github-banner.svg" width="100%" alt="Sachila Herath — Electronics and Telecommunication Engineering" />
+  <img src="https://raw.githubusercontent.com/BHMSHBHerath/BHMSHBHerath/main/assets/github-banner.svg" width="100%" alt="Sachila Herath — Electronics and Telecommunication Engineering" />
 
   <br />
 
