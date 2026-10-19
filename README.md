@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BHMSHBHerath/BHMSHBHerath/main/assets/github-banner.svg" width="100%" alt="Sachila Herath — Electronics and Telecommunication Engineering" />
+  
+<img width="3774" height="1904" alt="Untitled design (28)" src="https://github.com/user-attachments/assets/c0641444-b84a-4f05-bd59-9d14b18330d4" width="100%" alt="Sachila Herath — Electronics and Telecommunication Engineering" />/>
 
   <br />
 
