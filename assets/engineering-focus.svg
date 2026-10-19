@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 54" width="900" height="54" role="img" aria-labelledby="title desc">
+<title id="title">Engineering focus</title><desc id="desc">Telecommunications, networking, embedded systems, IoT and AI-assisted sensing</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5fd2ff"/><stop offset=".5" stop-color="#a5b4fc"/><stop offset="1" stop-color="#45f1ec"/></linearGradient></defs>
+<rect width="900" height="54" fill="#0a1323" rx="9"/>
+<rect width="898" height="52" x="1" y="1" rx="8" fill="none" stroke="#235e96" stroke-opacity=".65"/>
+<circle cx="24" cy="27" r="5" fill="#32d7ff"/>
+<text x="44" y="33" font-family="Arial,DejaVu Sans,sans-serif" font-size="17" fill="url(#g)" font-weight="600" letter-spacing=".2">Telecommunications  /  Networks  /  Embedded Systems  /  IoT  /  AI &amp; Signal Processing</text>
+<path d="M874 15V39" stroke="#40e6ff" stroke-width="2" opacity=".8"><animate attributeName="opacity" values=".85;.15;.85" dur="1.3s" repeatCount="indefinite"/></path>
+</svg>
