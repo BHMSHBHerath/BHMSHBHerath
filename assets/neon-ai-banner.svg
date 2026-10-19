@@ -45,6 +45,16 @@
    <path d="M-116 0Q0-117 116 0"/><path d="M-105 23Q0-82 105 23"/>
   </g>
  </g>
+ <!-- Radio beacon pulses and travelling network packets; no scripts. -->
+ <g transform="translate(1130 176)" fill="none" stroke="#42c9ff" stroke-width="2">
+  <circle r="18"><animate attributeName="r" values="18;117" dur="4.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0" dur="4.8s" repeatCount="indefinite"/></circle>
+  <circle r="18"><animate attributeName="r" values="18;117" begin="1.6s" dur="4.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0" begin="1.6s" dur="4.8s" repeatCount="indefinite"/></circle>
+  <circle r="18"><animate attributeName="r" values="18;117" begin="3.2s" dur="4.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0" begin="3.2s" dur="4.8s" repeatCount="indefinite"/></circle>
+ </g>
+ <g fill="#7eecff" stroke="#061426" stroke-width="1.5">
+  <circle r="4.5"><animateMotion path="M1052 126 L1105 157 L1120 102 L1179 141 L1213 122" dur="6.4s" repeatCount="indefinite"/></circle>
+  <circle r="4.5"><animateMotion path="M1060 206 L1100 250 L1142 231 L1207 214 L1213 122" dur="5.7s" begin=".9s" repeatCount="indefinite"/></circle>
+ </g>
  <g fill="#73baff" font-family="monospace" font-size="11" opacity=".5">
   <text x="967" y="38">TX  ↑  5G / RF</text><text x="1212" y="329">AI / SIGNAL</text>
  </g>
